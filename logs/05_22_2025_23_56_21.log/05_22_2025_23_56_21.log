@@ -1,0 +1,14 @@
+[ 2025-05-22 23:56:21,619 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2025-05-22 23:56:21,619 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2025-05-22 23:56:22,532 ] 24 root - INFO - Data ingestion started
+[ 2025-05-22 23:56:22,532 ] 27 root - INFO - Data Reading using pandas
+[ 2025-05-22 23:56:22,563 ] 31 root - INFO - Data Reading completed
+[ 2025-05-22 23:56:22,637 ] 36 root - INFO - Data splitted into train and test
+[ 2025-05-22 23:56:22,737 ] 42 root - INFO - Data Ingestion Completed
+[ 2025-05-22 23:56:22,787 ] 89 root - INFO - Outliers capped on our train data
+[ 2025-05-22 23:56:22,819 ] 95 root - INFO - Outliers capped on our test data
+[ 2025-05-22 23:56:22,819 ] 31 root - INFO -  Data Transformation Started
+[ 2025-05-22 23:56:22,819 ] 102 root - INFO - Splitting train data into dependent and independent features
+[ 2025-05-22 23:56:22,819 ] 106 root - INFO - Splitting test data into dependent and independent features
+[ 2025-05-22 23:56:22,853 ] 28 root - INFO - Splitting our data into dependent and independent features
+[ 2025-05-22 23:57:33,361 ] 80 root - INFO - best model found, Model Name is Random Forest, accuracy Score: 0.7852898996107355

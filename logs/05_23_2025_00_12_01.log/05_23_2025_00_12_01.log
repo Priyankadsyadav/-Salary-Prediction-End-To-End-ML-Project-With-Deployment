@@ -1,0 +1,9 @@
+[ 2025-05-23 00:12:01,336 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2025-05-23 00:12:01,336 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2025-05-23 00:12:02,223 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-23 00:12:02,229 ] 97 werkzeug - INFO -  * Debugger PIN: 384-726-576
+[ 2025-05-23 00:12:49,019 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Priyanka\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2025-05-23 00:12:49,026 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Priyanka\\anaconda3\\Lib\\site-packages\\flask\\templating.py', reloading
+[ 2025-05-23 00:12:49,041 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Priyanka\\anaconda3\\Lib\\site-packages\\jinja2\\environment.py', reloading
+[ 2025-05-23 00:12:49,045 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Priyanka\\anaconda3\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+[ 2025-05-23 00:12:49,058 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/May/2025 00:12:49] "[35m[1mGET / HTTP/1.1[0m" 500 -

@@ -1,0 +1,7 @@
+[ 2025-05-23 00:12:50,897 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2025-05-23 00:12:50,897 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2025-05-23 00:12:52,185 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-23 00:12:52,202 ] 97 werkzeug - INFO -  * Debugger PIN: 384-726-576
+[ 2025-05-23 00:12:52,298 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/May/2025 00:12:52] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2025-05-23 00:12:55,960 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/May/2025 00:12:55] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2025-05-23 00:13:37,716 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Priyanka\\Salary_Prediction_End To End ML Project With Deployment\\app.py', reloading
